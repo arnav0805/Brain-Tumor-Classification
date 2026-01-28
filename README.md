@@ -142,6 +142,3 @@ These challenges were addressed using proper preprocessing, regularization techn
 * Model deployment as a web application
 * Integration with real-time hospital systems
 * Performance improvement using data augmentation
-
-
-⭐ If you find this project useful, feel free to star the repository!
